@@ -1,4 +1,5 @@
 @import "bootstrap";
+@import "bootstrap-responsive";
 
 /* mixins, variables, etc. */
 
@@ -244,4 +245,14 @@ aside {
     height: 100px;
     margin-bottom: 5px;
   }
+}
+
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 985px) {
+/* Styles */
+body {
+  padding-top: 0px;
+}
+
 }
