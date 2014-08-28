@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 83586835d162c68dc6b2c0000d1be4961f0fd06d Thang Tran <ttran93@gmail.com> 1408985757 -0700	branch: Created from HEAD
-83586835d162c68dc6b2c0000d1be4961f0fd06d 77c11ec5e0ecce3044f259979e9d3732d75cee71 Thang Tran <ttran93@gmail.com> 1408986440 -0700	commit: Added rspec files
-77c11ec5e0ecce3044f259979e9d3732d75cee71 42b81a36ba4833562582b963894e384e5d805d62 Thang Tran <ttran93@gmail.com> 1408987171 -0700	commit: Add a StaticPage controller
-42b81a36ba4833562582b963894e384e5d805d62 e8be9e4291670be8b5fad5ee0ae84c59b1fcdf97 Thang Tran <ttran93@gmail.com> 1408988084 -0700	commit: Finish static pages
