@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 c14fc6469a0e4f66c0c6b4ae3241e3fd1a8f9203 Thang Tran <ttran93@gmail.com> 1408993448 -0700	branch: Created from HEAD
+c14fc6469a0e4f66c0c6b4ae3241e3fd1a8f9203 f50e17c9a1973a9b939302efb9e46626ef7128e6 Thang Tran <ttran93@gmail.com> 1409002174 -0700	commit: Make a basic User model (including secure passwords)

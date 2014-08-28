@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 1e776876feacbb84fb0800e653bbb330b22e12e8 Thang Tran <ttran93@gmail.com> 1408985260 -0700	commit (initial): Initial commit
+1e776876feacbb84fb0800e653bbb330b22e12e8 83586835d162c68dc6b2c0000d1be4961f0fd06d Thang Tran <ttran93@gmail.com> 1408985315 -0700	commit: Improve the README
+83586835d162c68dc6b2c0000d1be4961f0fd06d 77c11ec5e0ecce3044f259979e9d3732d75cee71 Thang Tran <ttran93@gmail.com> 1408986548 -0700	merge static-pages: Fast-forward
+77c11ec5e0ecce3044f259979e9d3732d75cee71 e8be9e4291670be8b5fad5ee0ae84c59b1fcdf97 Thang Tran <ttran93@gmail.com> 1408988100 -0700	merge static-pages: Fast-forward
+e8be9e4291670be8b5fad5ee0ae84c59b1fcdf97 f7b30ab1bfa6d43b7fb104cb17eff913d8a9157e Thang Tran <ttran93@gmail.com> 1408989199 -0700	commit: Add a full_tile helper
+f7b30ab1bfa6d43b7fb104cb17eff913d8a9157e c14fc6469a0e4f66c0c6b4ae3241e3fd1a8f9203 Thang Tran <ttran93@gmail.com> 1408993129 -0700	merge filling-in-layout: Fast-forward
+c14fc6469a0e4f66c0c6b4ae3241e3fd1a8f9203 f50e17c9a1973a9b939302efb9e46626ef7128e6 Thang Tran <ttran93@gmail.com> 1409002192 -0700	merge modeling-users: Fast-forward
+f50e17c9a1973a9b939302efb9e46626ef7128e6 c593d23ae6f449a3fec7bbcfa88ea7ef9fe7d0df Thang Tran <ttran93@gmail.com> 1409025437 -0700	merge sign-up: Fast-forward
+c593d23ae6f449a3fec7bbcfa88ea7ef9fe7d0df 5e0de487abb2db2ea6d351c32e4927d73155aa6b Thang Tran <ttran93@gmail.com> 1409025540 -0700	commit: Add SSL in production
+5e0de487abb2db2ea6d351c32e4927d73155aa6b 5356d45be0eeca2f464805b1b663b51a118d1d84 Thang Tran <ttran93@gmail.com> 1409079944 -0700	merge sign-in-out: Fast-forward
+5356d45be0eeca2f464805b1b663b51a118d1d84 60f798b9922d7e8b6e44da779a2ae763498addac Thang Tran <ttran93@gmail.com> 1409119017 -0700	merge updating-users: Fast-forward
+60f798b9922d7e8b6e44da779a2ae763498addac 6f13f3629dbfb3fc1c48a5c4af9c0d296e688d6f Thang Tran <ttran93@gmail.com> 1409119522 -0700	commit: Altered sample-data.rake to populate
+6f13f3629dbfb3fc1c48a5c4af9c0d296e688d6f e2880f0afdf864f6798b6473dccb27ad2edc98fb Thang Tran <ttran93@gmail.com> 1409163368 -0700	merge user-microposts: Fast-forward
+e2880f0afdf864f6798b6473dccb27ad2edc98fb fa3b05603bb334dce70f95c7d519ec9bc253ee94 Thang Tran <ttran93@gmail.com> 1409252597 -0700	merge following-users: Fast-forward
+fa3b05603bb334dce70f95c7d519ec9bc253ee94 f16d6dbc2f6ebe9171dbb6f714c7c135f7fe67fb Thang Tran <ttran93@gmail.com> 1409256533 -0700	commit: Improve the README
