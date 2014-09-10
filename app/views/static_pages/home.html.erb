@@ -1,6 +1,6 @@
 <% if signed_in? %>
   <div class="row">
-    <aside class="span4">
+    <aside class="span3">
       <section>
         <%= render 'shared/user_info' %>
       </section>
@@ -11,11 +11,14 @@
         <%= render 'shared/micropost_form' %>
       </section>
     </aside>
-    <div class="span8">
+    <div class="span9">
       <h3>Micropost Feed</h3>
       <%= render 'shared/feed' %>
     </div>
   </div>
+
+
+  
 <% else %>
   <div class="center hero-unit">
     <h1>Welcome</h1>
